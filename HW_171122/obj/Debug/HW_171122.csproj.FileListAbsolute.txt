@@ -1,0 +1,8 @@
+C:\Users\User\source\repos\HW_171122\HW_171122\bin\Debug\HW_171122.exe.config
+C:\Users\User\source\repos\HW_171122\HW_171122\bin\Debug\HW_171122.exe
+C:\Users\User\source\repos\HW_171122\HW_171122\bin\Debug\HW_171122.pdb
+C:\Users\User\source\repos\HW_171122\HW_171122\obj\Debug\HW_171122.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\HW_171122\HW_171122\obj\Debug\HW_171122.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\source\repos\HW_171122\HW_171122\obj\Debug\HW_171122.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\HW_171122\HW_171122\obj\Debug\HW_171122.exe
+C:\Users\User\source\repos\HW_171122\HW_171122\obj\Debug\HW_171122.pdb
